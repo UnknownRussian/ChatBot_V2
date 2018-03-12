@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data1>test</Data1>
+  <Data2>Hello</Data2>
+  <Data3>World</Data3>
+</MyData>

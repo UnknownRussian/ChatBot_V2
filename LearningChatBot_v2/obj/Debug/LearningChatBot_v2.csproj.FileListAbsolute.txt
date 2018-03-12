@@ -1,0 +1,10 @@
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\bin\Debug\LearningChatBot_v2.exe.config
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\bin\Debug\LearningChatBot_v2.exe
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\bin\Debug\LearningChatBot_v2.pdb
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.MainForm.resources
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.Properties.Resources.resources
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.csproj.GenerateResource.Cache
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.exe
+C:\Users\Aliaksandr\source\repos\LearningChatBot_v2\LearningChatBot_v2\obj\Debug\LearningChatBot_v2.pdb
